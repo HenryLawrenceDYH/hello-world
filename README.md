@@ -1,2 +1,6 @@
 # hello-world
-a place where I store ideas, resources, or even share and discuss things with others.
+
+Hi there!
+
+I'm Henry Lawrence, glad to know you guys here.
+I enjoy coding and hope to learn some skills here.
